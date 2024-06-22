@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+body{
+	background-color: lightgray;
+	height: 300px;
+	width: 300px;
+	align-items:center;
+}
+div{
+	padding: 5px;
+	margin:5px;
+	
+	
+}
